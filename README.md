@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+![Image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
 
-You can use the [editor on GitHub](https://github.com/faisalabuzaid/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+# ** Growth Mindset **
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Growth Mindset is believing that our abilities can be developed,they are not fixed as fixed mindset people thinks
 
-### Markdown
+# ** Three reminders to keep myself in a groth mindset **
+###
+    1. Channenging 
+    2. Obstacles  
+    3. Effort 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# * _About Me_ *
 
-```markdown
-Syntax highlighted code block
+## I'm FAISAL ABUZAID a mechatronics engineer, worked as a mechanical design engineer and looking forward to finish this course with you to build up a new career in software develpment field.
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/faisalabuzaid/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Here is my github profile link [Link](https://github.com/faisalabuzaid)
