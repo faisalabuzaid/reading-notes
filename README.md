@@ -15,10 +15,13 @@
 
 ### Here is my github profile [Link](https://github.com/faisalabuzaid)
 
+
+
+
 # Table of Content 
 
- Page | Link
- ------------
+ Page | URL
+ ---- | ----
  Growth Mindset  | [Link](https://github.com/faisalabuzaid)
   Reminders to Keep in a Growth Mindest| [Link](https://github.com/faisalabuzaid)
    About Me | [Link](https://github.com/faisalabuzaid)
