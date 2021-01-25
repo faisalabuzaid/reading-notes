@@ -24,6 +24,6 @@
 
  Page | URL
  ---- | ----
- Growth Mindset  | [Link](https://github.com/faisalabuzaid)
-  Reminders to Keep in a Growth Mindest| [Link](https://github.com/faisalabuzaid)
+ Growth Mindset  | [Link](https://faisalabuzaid.github.io/reading-notes/growthmindset)
+  Reminders to Keep in a Growth Mindest| [Link](https://faisalabuzaid.github.io/reading-notes/reminders)
    About Me | [Link](https://github.com/faisalabuzaid)
