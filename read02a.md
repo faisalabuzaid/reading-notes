@@ -11,10 +11,10 @@
 ### You can use (1.) and (2.) etc.. for ordered listing  
 
 ## image
-### you can use > ![photo describtion](photo link) to insert photo
+### you can use ```![photo describtion](photo link) to insert photo```
 
 ## link
-### you can use > [website name](website link)
+### you can use ```[website name](website link)```
 
 ## Table
 
@@ -22,7 +22,7 @@ You can create tables by assembling a list of words and dividing them with hyphe
 
 *like that*
 
-> Demo Table Head | Demo Table Head 2
-> --------------- | -----------------
-> Cell 1 | Cell 2
-> Cell 3 | Cell 4
+ ### ```Demo Table Head | Demo Table Head 2```
+ ### ```--------------- | ----------------- ```
+### ```Cell 1 | Cell 2```
+### ```Cell 3 | Cell 4```
