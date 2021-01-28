@@ -6,7 +6,7 @@
 
 **Logical Operators** are operators to test more than one condition,
 - && result will be two true if both conditions are true only.
-- || result will be true if one of the two conditions is true.
+- ```||``` result will be true if one of the two conditions is true.
 - ! this will invert the result of the conditon.
 
 ## Loops
