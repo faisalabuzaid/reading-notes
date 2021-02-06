@@ -1,29 +1,33 @@
-# **<center> Growth Mindset </center>**
-
-### Growth Mindset is believing that our abilities can be developed, they are not fixed as fixed mindset people beleive.
-
-![Image](https://3kllhk1ibq34qk6sp3bhtox1-wpengine.netdna-ssl.com/wp-content/uploads/NewGrowthMindset2.png)
-
-
-# **Three reminders to keep myself in a growth mindset**
-### 1. Channenging 
-### 2.Obstacles  
-### 3.Effort 
-
-
-# *Welcome to my first website*
-
-## I'm _FAISAL ABUZAID_ a mechatronics engineer, worked as a mechanical design engineer and looking forward to finish this course with you to build up a new career in software develpment field.
-
-### Here is my github profile [Link](https://github.com/faisalabuzaid)
+# **<center> Code 102 Reading Notes </center>**
 
 
 
-
-# Table of Content 
 
  Page | URL
  ---- | ----
  Read02a | [Link](https://faisalabuzaid.github.io/reading-notes/read02a)
  Read02b | [Link](https://faisalabuzaid.github.io/reading-notes/read02b)
+ Read3 | [Link](https://faisalabuzaid.github.io/reading-notes/read3)
+ Read4 | [Link](https://faisalabuzaid.github.io/reading-notes/read4)
+ Read5 | [Link](https://faisalabuzaid.github.io/reading-notes/read5)
+ Read6a | [Link](https://faisalabuzaid.github.io/reading-notes/read6a)
+ Read6b | [Link](https://faisalabuzaid.github.io/reading-notes/read6b)
+ 
+
+
+
+ # **<center> Code 201 Reading Notes </center>**
+
+
+
+
+ Page | URL
+ ---- | ----
+ Class 01 | [Link](https://faisalabuzaid.github.io/reading-notes/class-01)
+ Class 02 | [Link](https://faisalabuzaid.github.io/reading-notes/class-02)
+ Class 03 | [Link](https://faisalabuzaid.github.io/reading-notes/class-03)
+ Class 04 | [Link](https://faisalabuzaid.github.io/reading-notes/class-04)
+ Class 05 | [Link](https://faisalabuzaid.github.io/reading-notes/class-05)
+ Class 06 | [Link](https://faisalabuzaid.github.io/reading-notes/class-06)
+ Class 07 | [Link](https://faisalabuzaid.github.io/reading-notes/class-07)
  
