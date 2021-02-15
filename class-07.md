@@ -13,24 +13,24 @@
 
 ***In JavaScript, to get a random number between 0 and 1, use the `Math.random()` function.***
 
-``` ruby
+```
 console.log(Math.random())
 0.5408145050563944
 ```
 
 ***If you want a random number between 1 and 10, multiply the results of `Math.random` by 10, then round up or down.***
 *Use `.floor` to round down to a whole number:*
-``` ruby
+```
 console.log(Math.floor(Math.random() * 10))
 ```
 
 *Use `.ceil` to round up to a whole number:*
-``` ruby
+``` 
 console.log(Math.ceil(Math.random() * 10))
 ```
 
 *Use `.round` to round to the nearest whole number:*
-``` ruby
+```
 console.log(Math.round(Math.random() * 10))
 ```
 
@@ -107,7 +107,7 @@ table {
 
 **Example**
 
-``` ruby
+```
 var person = {
   firstName: "John",
   lastName : "Doe",
@@ -128,44 +128,23 @@ In other words,***this.firstName*** means the ***firstName*** property of this o
 
 - This example uses the `toUpperCase()` method of the String object, to convert a text to uppercase:
 
-``` ruby
+``` 
 var message = "Hello world!";
 var x = message.toUpperCase();
 ```
 
 - The value of x, after execution of the code above will be:
 
-``` ruby
+```
 HELLO WORLD!
 ```
 
 ## *Adding a Method to an Object*
 
 ***Example:***
-``` ruby
+```
 person.name = function () {
   return this.firstName + " " + this.lastName;
 };
 ```
 <hr> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
