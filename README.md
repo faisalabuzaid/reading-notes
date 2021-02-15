@@ -30,4 +30,4 @@
  Class 05 | [Link](https://faisalabuzaid.github.io/reading-notes/class-05)
  Class 06 | [Link](https://faisalabuzaid.github.io/reading-notes/class-06)
  Class 07 | [Link](https://faisalabuzaid.github.io/reading-notes/class-07)
- 
+ Class 08 | [Link](https://faisalabuzaid.github.io/reading-notes/class-08)
