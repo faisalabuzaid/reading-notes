@@ -31,3 +31,6 @@
  Class 06 | [Link](https://faisalabuzaid.github.io/reading-notes/class-06)
  Class 07 | [Link](https://faisalabuzaid.github.io/reading-notes/class-07)
  Class 08 | [Link](https://faisalabuzaid.github.io/reading-notes/class-08)
+ Class 09 | [Link](https://faisalabuzaid.github.io/reading-notes/class-09)
+ Class 10 | [Link](https://faisalabuzaid.github.io/reading-notes/class-10)
+ Class 11 | [Link](https://faisalabuzaid.github.io/reading-notes/class-11)
