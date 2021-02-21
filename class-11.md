@@ -87,3 +87,18 @@ to improve its findability.
         6. Image Alt Text
         7. Page Descriptions
     
+    * Analytics: Learning
+about your Visitors: 
+
+            As soon as people start coming to your site, you can start analyzing how they found it, what they were looking at and at what point they are leaving. One of the best tools for doing this is a free service offered by Google called Google Analytics.
+
+### Note that :
+* To put your site on the web, you will need to obtain a
+domain name and web hosting.
+
+* FTP programs allow you to transfer files from your
+local computer to your web server.
+
+* Many companies provide platforms for blogging, email
+newsletters, e-commerce and other popular website
+tools (to save you writing them from scratch).
