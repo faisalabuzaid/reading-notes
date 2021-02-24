@@ -34,3 +34,7 @@
  Class 09 | [Link](https://faisalabuzaid.github.io/reading-notes/class-09)
  Class 10 | [Link](https://faisalabuzaid.github.io/reading-notes/class-10)
  Class 11 | [Link](https://faisalabuzaid.github.io/reading-notes/class-11)
+ Class 12 | [Link](https://faisalabuzaid.github.io/reading-notes/class-12)
+ Class 13 | [Link](https://faisalabuzaid.github.io/reading-notes/class-13)
+ Class 14-a | [Link](https://faisalabuzaid.github.io/reading-notes/class14-a)
+ Class 14-b | [Link](https://faisalabuzaid.github.io/reading-notes/class14-b)
