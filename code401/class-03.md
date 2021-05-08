@@ -1,33 +1,66 @@
-# MUSTACHE and FLEXBOX
+# Class 03
+# FileIO and Exceptions
+## Reading and Writing Files in Python
 
-## Javascript Templating Language and Engine— Mustache.js with Node and Express
+## What Is a File?
+a file is a contiguous set of bytes used to store data. This data is organized in a specific format and can be anything as simple as a text file or as complicated as a program executable.These byte files are then translated into binary 1 and 0 for easier processing by the computer.
 
-**Mustache**
+Files on most modern file systems are composed of three main parts:
 
-Mustache can be used for HTML, config files, source code - anything. It works by expanding tags in a template using values provided in a hash or object.
+ - Header : metadata about the contents of the file (file name, size, type, and so on).
 
-We call it "logic-less" because there are no if statements, else clauses, or for loops. Instead there are only tags. Some tags are replaced with a value, some nothing, and others a series of values. This document explains the different types of Mustache tags.
+ - Data : contents of the file as written by the creator or editor.
 
-Tags are indicated by the double mustaches. {{person}} is a tag, as is {{#person}}. In both examples, we'd refer to person as the key or tag key.
-
-If you intend you use mustache with Node and Express, you can use mustache-express. Mustache Express lets you use Mustache and Express together easily.
-
-mustache.js is an implementation of the mustache template system in JavaScript. It is often considered the base for JavaScript templating.
-
+ - End of file (EOF) : special character that indicates the end of the file.
 
 
-`Mustache.render(“Hello, {{name}}”, { name: “Sherlynn” });`
+## File Paths
+When you access a file on an operating system, a file path is required. The file path is a string that represents the location of a file. It’s broken up into three major parts:
 
-`// returns: Hello, Sherlynn`
+  - Folder Path: the file folder location on the file system where subsequent folders are separated by a forward slash / (Unix) or backslash \ (Windows)
 
-**Flexbox**
+ - File Name: the actual name of the file
 
-Flexbox is a one-dimensional layout method for laying out items in rows or columns. Items flex to fill additional space and shrink to fit into smaller spaces. In other words, Flexbox Layout aims at providing a more efficient way to lay out, align and distribute space among items in a container, even when their size is unknown and/or dynamic.
+ - Extension: the end of the file path pre-pended with a period (.) used to indicate the file type. 
 
-***display***
+## Character Encodings
+Another common problem that you may face is the encoding of the byte data. An encoding is a translation from byte data to human readable characters. This is typically done by assigning a numerical value to represent a character. The two most common encodings are the ASCII and UNICODE Formats. ASCII can only store 128 characters, while Unicode can contain up to 1,114,112 characters.
 
-- This defines a flex container; inline or block depending on the given value.
-- It enables a flex context for all its direct children.
-- .container { display: flex; /* or inline-flex */ }
+ASCII is actually a subset of Unicode (UTF-8), meaning that ASCII and Unicode share the same numerical to character values. It’s important to note that parsing a file with the incorrect character encoding can lead to failures or misrepresentation of the character
 
-![image](https://res.cloudinary.com/practicaldev/image/fetch/s---5GvwQgk--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/1zojafmjmuo2p7vmnxcs.jpeg)
+# Python Exceptions
+A python program ends as soon as there is an error. The error can be syntax related or an exception - a syntax error occurs when the parser detects an incorrect statement - an arrow will indicate where the syntax error lies - an exception error occurs when syntactically Python Code results in an error - there are many built-in exception in Python and it will list the type
+
+ - you can use raise to throw an exception if a condition occurs
+
+        x = 5
+        if x > 5:
+        raise Exception('x should not exceed 5...')
+
+ - instead of waiting for a program to crash in the middle of its coursek, you can make an assertion in Python
+
+    - we assert that if a condition is true, then the program will continue, if it is false you can let the program throw an AssertionError exception.
+
+ - the try and Except block is used to catch and handle exceptions
+
+    - try: run this code....
+
+    - except: execute this code when there is an exception
+
+    - else: no exceptions? Run this code
+
+    - finally: always run this code
+
+
+
+- raise allows you to throw an exception at any time.
+
+- assert enables you to verify if a certain condition is met and throw an exception if it isn’t.
+
+- In the try clause, all statements are executed until an exception is encountered.
+
+- except is used to catch and handle the exception(s) that are encountered in the try clause.
+
+- else lets you code sections that should run only when no exceptions are encountered in the try clause.
+
+- finally enables you to execute sections of code that should always run, with or without any previously encountered exceptions.
