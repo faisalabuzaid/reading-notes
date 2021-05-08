@@ -4,11 +4,11 @@
  Page | URL
  ---- | ----
  Read: 01 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-01)
- Read: 02 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-02)
- Read: 03 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-03)
- Read: 04 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-04)
- Read: 05 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-05)
- Read: 06 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-06)
+ Read: 02 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-02)
+ Read: 03 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-03)
+ Read: 04 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-04)
+ Read: 05 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-05)
+ Read: 06 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-06)
  <!-- Read: 07 - APIs continued | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-07)
  Read: 08 - SQL | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-08)
  Read: 09 - Refactoring | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-09)
