@@ -3,13 +3,13 @@
 
  Page | URL
  ---- | ----
- Read: 01 - Class One | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-01)
- <!-- Read: 02 - jQuery, Events, and The DOM | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-02)
- Read: 03 - Flexbox and Templating | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-03)
- Read: 04 - Responsive Web Design and Regular Expressions | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-04)
- Read: 05 - Heroku Deployment | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-05)
- Read: 06 - Node, Express, and APIs | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-06)
- Read: 07 - APIs continued | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-07)
+ Read: 01 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-01)
+ Read: 02 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-02)
+ Read: 03 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-03)
+ Read: 04 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-04)
+ Read: 05 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-05)
+ Read: 06 | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-06)
+ <!-- Read: 07 - APIs continued | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-07)
  Read: 08 - SQL | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-08)
  Read: 09 - Refactoring | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-09)
  Read: 10 - The Call Stack and Debugging | [Link](https://faisalabuzaid.github.io/reading-notes/code301/class-10)
