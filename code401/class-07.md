@@ -1,20 +1,17 @@
-# What Google Learned From Its Quest to Build the Perfect Team
+# Global
+When you try to assign a value to a global name inside a function, you create a new local name in the function scope. you can define a list of names that are going to be treated as global names by use a global statement.
 
-After years of analyzing data and interviews from more than 180 teams across the company, Google found that the kinds of people (a.k.a. the individual personalities) in a team are not so relevant.
+The statement consists of the global keyword followed by one or more names separated by commas. You can also use multiple global statements with a name (or a list of names). All the names that you list in a global statement will be mapped to the global or module scope in which you define them.
 
-“We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter,” Dubey said in an interview with The New York Times.
+The global statement can be used to modify global names from almost any place in your code, as you’ll see in The global Statement. Modifying global names is generally considered bad programming practice because it can lead to code that is:
 
-Instead, the researchers found that there were five key characteristics of enhanced teams:
+**Difficult to debug:** Almost any statement in the program can change the value of a global name.
+**Hard to understand:** You need to be aware of all the statements that access and modify global names.
+**Impossible to reuse:** The code is dependent on global names that are specific to a concrete program.
 
-1. **Psychological safety:** Everyone feels safe in taking risks around their team members, and that they won’t be embarrassed or punished for doing so.
 
-2. **Dependability:** Everyone completes quality work on time.
+# The nonlocal 
 
-3. **Structure and clarity:** Everyone knows what their specific expectations are. These expectations must be challenging yet attainable.
+With a nonlocal statement, you can define a list of names that are going to be treated as nonlocal. nonlocal names can be accessed from inner functions, but not assigned or updated.
 
-4. **Meaning:** Everyone has a sense of purpose in their work (i.e., financial security, supporting family, helping the team succeed, etc.).
-
-5.  **Impact:** Everyone sees that the result of their work actually contributes to the organization’s overall goals.
-
-*Reference:*
-* https://www.cnbc.com/2019/02/28/what-google-learned-in-its-quest-to-build-the-perfect-team.html
+the nonlocal statment consists of the nonlocal keyword followed by one or more names separated by commas. These names will refer to the same names in the enclosing Python scope.
