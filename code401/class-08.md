@@ -1,13 +1,41 @@
-# SQL 
+# List Comprehensions in Python
 
-SQL, or Structured Query Language, is a language designed to allow both technical and non-technical users query, manipulate, and transform data from a relational database. And due to its simplicity, SQL databases provide safe and scalable storage for millions of websites and mobile applications.
+List comprehensions provide a concise way to create lists.
 
-**Relational databases**
+It consists of brackets containing an expression followed by a for clause, then
+zero or more for or if clauses. The expressions can be anything, meaning you can
+put in all kinds of objects in lists.
 
-relational database represents a collection of related (two-dimensional) tables. Each of the tables are similar to an Excel spreadsheet, with a fixed number of named columns (the attributes or properties of the table) and any number of rows of data.
+``new_list = [expression(i) for i in old_list if filter(i)]``
 
-- Select Queries : `SELECT column, another_column, …`
-`FROM mytable;`
+**new_list**
+The new list (result).
 
-*The result of this query will be a two-dimensional set of rows and columns, effectively a copy of the table, but only with the columns that we requested.*
+**expression(i)**
+Expression is based on the variable used for each element in the old list.
+
+**for i in old_list**
+The word for followed by the variable name to use, followed by the word in the
+old list.
+
+**if filter(i)**
+Apply a filter with an If-statement.
+
+
+
+## Using list comprehension in functions
+
+
+**Create a function and name it double:**
+
+``def double(x):``
+
+  ``return x*2``
+
+### If you now just print that function with a value in it, it should look like this:
+`>>>` print double(10)
+
+20
+
+
 
