@@ -23,5 +23,14 @@ You can arrange multiple documents and activities side by side in the work area 
 
 ## NumPy 
 
+
+![](https://files.realpython.com/media/Intro-to-NumPy_Watermarked.b907b7dfb177.jpg)
+
 NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
+*top four benefits that NumPy can bring to your code:*
+
+1. More speed: NumPy uses algorithms written in C that complete in nanoseconds rather than seconds.
+2. Fewer loops: NumPy helps you to reduce loops and keep from getting tangled up in iteration indices.
+3. Clearer code: Without loops, your code will look more like the equations you’re trying to calculate.
+4. Better quality: There are thousands of contributors working to keep NumPy fast, friendly, and bug free.
