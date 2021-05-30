@@ -1,6 +1,6 @@
 # Data Science Primer:
 
-  - ## Chapter 1: Bird's Eye View:
+  - ## Bird's Eye View:
  
     - This data science primer will cover exploratory analysis, data cleaning, feature engineering, algorithm selection, and model training. 
     - What makes machine learning so special?
@@ -12,9 +12,7 @@
       - Features - Variables (columns) in the dataset used to train the model.
       - Target variable - A specific variable you're trying to predict.
       - Observations - Data points (rows) in the dataset.
-      - **Machine Learning Tasks**
-      
-      :Academic machine learning starts with and focuses on individual algorithms.
+      - Machine Learning Tasks:Academic machine learning starts with and focuses on individual algorithms.
       - However, in applied machine learning, you should first pick the right machine learning task for the job.
       - categories of tasks are supervised learning and unsupervised learning.
       - **The Blueprint**:
@@ -28,7 +26,7 @@
           - W - Data Wrangling: You may also need to restructure your dataset into a format that algorithms can handle.
           - P - Preprocessing: Often, transforming your features first can further improve performance.
           - E - Ensembling: You can squeeze out even more performance by combining multiple models.
-     - ## Chapter 2: Exploratory Analysis:
+     - ## Exploratory Analysis:
         - Why explore your dataset upfront?
         - The purpose of exploratory analysis is to "get to know" the dataset. 
         - in 3 main ways:
@@ -54,21 +52,21 @@
           - In fact, the round-number min ($200k) and max ($800k) suggest possible data truncation...
           - ...which is very important to remember when assessing the generalizability of your models later!
          
-       - ## Chapter 3: Data Cleaning
+       - ## Data Cleaning
          - Proper data cleaning is the “secret” sauce behind machine learning.
          - Better data beats fancier algorithms…
          -  If you have a clean dataset, even simple algorithms can learn impressive insights from it!
-       - ## Chapter 4: Feature Engineering:
+       - ## Feature Engineering:
          - In a nutshell, “feature engineering” is creating new model input features from your existing ones.
          - To start, feature engineering is very open-ended. There are literally infinite options for new features to create.
          - Plus, you’ll need domain knowledge to add informative features instead of more noise.
-       - ## Chapter 5: Algorithm Selection:
+       - ## Algorithm Selection:
          - our goal is to explain a few essential concepts (e.g. regularization, ensembling, automatic feature selection) that will teach you why some algorithms tend to perform better than others.
          - In applied machine learning, individual algorithms should be swapped in and out depending on which performs best for the problem and the dataset.
          - We have two main goals:
            - 1 - To explain powerful mechanisms in modern ML.
            - 2 - To introduce several algorithms that use those mechanisms.
-      - ## Chapter 6: Model Training:
+      - ## Model Training:
         - data scientists actually do spend most their time on the earlier steps:
            - 1 - Exploring the data.
            - 2 - Cleaning the data.

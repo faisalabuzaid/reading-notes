@@ -16,9 +16,10 @@
  Read: 11 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-11)
  Read: 12 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-12)
  Read: 13 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-13)
- Read: 14a| [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-14)
- Read: 14b| [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-15)
- Read: 15 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-16)
+ Read: 14| [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-14)
+ Read: 15| [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-15)
+ Read: 16 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-16)
+ Read: 17 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-17)
 
 
 
