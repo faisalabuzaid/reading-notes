@@ -24,6 +24,7 @@
  Read: 19 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-19)
  Read: 26 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-26)
  Read: 27 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-27)
+ Read: 28 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-28)
 
 
 
