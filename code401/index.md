@@ -29,6 +29,7 @@
  Read: 30 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-30)
  Read: 31 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-31)
  Read: 32 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-32)
-
-
+ Read: 33 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-33)
+ Read: 34 | [Link](https://faisalabuzaid.github.io/reading-notes/code401/class-34)
+ 
 [Home](../)
